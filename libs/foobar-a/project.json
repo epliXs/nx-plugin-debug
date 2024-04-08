@@ -1,0 +1,9 @@
+{
+  "name": "foobar-a",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/foobar-a/src",
+  "prefix": "lib",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
